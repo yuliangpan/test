@@ -1,4 +1,4 @@
-import java.util.Arrays;
+Hello!!!!!import java.util.Arrays;
 import java.util.function.*;
 
 public class SquareSequence implements NumberSequence {
